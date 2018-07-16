@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Amani\\VahiclePlate\\": "src/",
+            "Amani\\VahiclePlate\\": "amani64/vehicle-plate/src/"
         }
     },
     "extra": {
@@ -27,5 +27,4 @@
             ]
         }
     }
-
 }

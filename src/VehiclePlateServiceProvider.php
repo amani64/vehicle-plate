@@ -25,7 +25,7 @@ class VehiclePlateServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->singleton('vahicle-plate', function () {
+        $this->app->singleton('plate', function () {
             return new Plate();
         });
     }
