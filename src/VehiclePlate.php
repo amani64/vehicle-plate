@@ -16,6 +16,6 @@ class VehiclePlate extends Facade
 	 */
 	protected static function getFacadeAccessor()
 	{
-		return 'vehicle_plate';
+		return 'vehicle-plate';
 	}
 }
