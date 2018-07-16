@@ -1,0 +1,25 @@
+{
+    "name": "amani64/vehicle-plate",
+    "description": "package for vehicle plate validation.",
+    "keywords": ["vehicle", "plate"],
+    "homepage": "https://github.com/amani64/vehicle-plate",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "akbar amani",
+            "email": "amania1364@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Amani\\VahiclePlate\\": "src/",
+        }
+    }
+}
